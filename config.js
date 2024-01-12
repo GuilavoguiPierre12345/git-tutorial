@@ -1,2 +1,2 @@
-console.log("git tutoriel");
-console.log("version 2");
+console.log("git tutorial senior");
+console.log("version 2 updated");
